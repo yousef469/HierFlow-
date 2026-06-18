@@ -214,15 +214,3 @@ img = prompt_to_image("a brown dog", model, n_steps=3)
 └── README.md
 ```
 
-## Citation
-
-If you use this work, please cite:
-
-```
-@software{HierFlow2026,
-  author = {Yousef Mohammed},
-  title = {HierFlow: 3-Step Generative Flow Matching via Hierarchical Multimodality Decomposition},
-  year = {2026},
-  url = {https://github.com/yousef469/HierFlow-}
-}
-```
